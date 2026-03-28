@@ -25,3 +25,13 @@ This project simulates a high-stakes challenge within **JPMorganChase’s Paymen
 * **Live Risk Predictor:** Interactive sidebar allowing stakeholders to test transaction scenarios.
 * **Automated Funnel Reporting:** Visual bar charts tracking live "Product Health" across the 4-step journey.
 * **Decision Support:** Instant "Low/High Risk" labeling based on historical failure patterns.
+
+## 📊 Project Visuals
+
+### Customer Journey: Payment Funnel Drop-off
+This chart identifies the significant "leak" at the Security step, specifically affecting Android users.
+![Payment Funnel Analysis](funnel_chart.png)
+
+### The Solution: Interactive Diagnostic Dashboard
+A live Streamlit application that provides real-time risk assessments and product recommendations.
+![JPMC Dashboard](jpmc_dashboard_screenshot.png)
