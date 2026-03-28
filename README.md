@@ -35,3 +35,5 @@ This chart identifies the significant "leak" at the Security step, specifically 
 ### The Solution: Interactive Diagnostic Dashboard
 A live Streamlit application that provides real-time risk assessments and product recommendations.
 ![JPMC Dashboard](jpmc_dashboard_screenshot.png)
+
+ http://localhost:8501
